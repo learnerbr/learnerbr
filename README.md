@@ -2,7 +2,7 @@
 
 # Hello, I am Gilmar!
 - Student of Systems Development and Data Science
-- Focused on Python, HTML, CSS, Java, 
+- Focused on Python, Java, HTML, CSS 
 - Preparing myself for the job market
 - Contact: cursosgmo@gmail.com
 
